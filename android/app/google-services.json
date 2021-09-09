@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011037021070",
+    "project_id": "whollet-5b411",
+    "storage_bucket": "whollet-5b411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011037021070:android:eb019cfb00ed4b7e6e3adf",
+        "android_client_info": {
+          "package_name": "com.lilpunk.whollet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011037021070-i6e917o2upo1k89n4e2h58bg2ji970qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv82MwbPdaEKuDSQPRtf8P5pa_HguXioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011037021070-i6e917o2upo1k89n4e2h58bg2ji970qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
